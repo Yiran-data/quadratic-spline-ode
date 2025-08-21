@@ -39,7 +39,7 @@ with \(y_{i+1}\) determined by solving a nonlinear condition via root-finding.
 Clone this repository and run the notebook in Jupyter:
 
 ```bash
-git clone https://github.com/你的用户名/quadratic-spline-ode.git
+git clone https://github.com/Yiran-data/quadratic-spline-ode.git
 cd quadratic-spline-ode
 pip install -r requirements.txt
 jupyter notebook numerical_methods_quadratic_spline.ipynb
